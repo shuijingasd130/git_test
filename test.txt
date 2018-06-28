@@ -1,0 +1,6 @@
+git init 
+git remote add origin git@github.com:shuijingasd130/git_test.git
+git staus 
+git add .
+git commit -m"修改了test.txt文件"
+git push origin master
